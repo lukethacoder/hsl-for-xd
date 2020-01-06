@@ -1,2 +1,10 @@
 # hsl-for-xd
-will have to do until Adobe add native HSL support to XD
+
+Simple Hello world that demonstrates React and Adobe XD Panels
+
+## Usage
+
+```bash
+yarn
+yarn watch
+```
