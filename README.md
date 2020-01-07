@@ -1,10 +1,11 @@
 # hsl-for-xd
 
-Simple Hello world that demonstrates React and Adobe XD Panels
+A simple plugin to display the HSL value of the currently selected color. (may expand this to feature more color options) 
 
 ## Usage
 
 ```bash
 yarn
 yarn watch
+yarn build
 ```
